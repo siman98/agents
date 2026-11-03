@@ -1,0 +1,7 @@
+{
+  "name": "html-visualization",
+  "description": "Create interactive, self-contained HTML visualizations (long-page, slideshow, dashboard, infographic) with Mermaid diagrams and syntax highlighting.",
+  "version": "1.0.0",
+  "author": { "name": "siman98" },
+  "keywords": ["html", "visualization", "mermaid", "presentation", "dashboard"]
+}

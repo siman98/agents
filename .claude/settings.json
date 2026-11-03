@@ -1,0 +1,11 @@
+{
+  "extraKnownMarketplaces": {
+    "siman-web-skills": {
+      "source": { "source": "github", "repo": "siman98/agents" }
+    }
+  },
+  "enabledPlugins": {
+    "html-skills@siman-web-skills": true,
+    "html-visualization@siman-web-skills": true
+  }
+}

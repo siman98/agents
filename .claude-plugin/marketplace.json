@@ -1,0 +1,21 @@
+{
+  "name": "siman-web-skills",
+  "owner": { "name": "siman98" },
+  "description": "Personal collection of Claude Code skills for building web pages and HTML artifacts.",
+  "plugins": [
+    {
+      "name": "html-skills",
+      "source": "./plugins/html-skills",
+      "description": "Seventeen HTML-output skills (specs, diagrams, dashboards, prototypes, decks, mind maps, design tokens, comparison matrices, testing checklists, and more). Upstream: f-labs-io/agent-html-skills (MIT).",
+      "category": "skills",
+      "tags": ["html", "diagrams", "prototypes", "design", "visualization"]
+    },
+    {
+      "name": "html-visualization",
+      "source": "./plugins/html-visualization",
+      "description": "Interactive HTML visualizations for docs, tutorials, architecture and presentations.",
+      "category": "skills",
+      "tags": ["html", "visualization", "mermaid", "presentation"]
+    }
+  ]
+}
